@@ -1,26 +1,26 @@
 [
   {
     "Id": 1,
-    "Name": "Angular"
+    "Name": "Ślub"
   },
   {
     "Id": 2,
-    "Name": "NetCore"
+    "Name": "Chrzest"
   },
   {
     "Id": 3,
-    "Name": "VS Code"
+    "Name": "Komunia"
   },
   {
     "Id": 4,
-    "Name": "React"
+    "Name": "Zaproszenia"
   },
   {
     "Id": 5,
-    "Name": "Typescript"
+    "Name": "Okazyjne"
   },
   {
     "Id": 6,
-    "Name": "Redis"
+    "Name": "Świąteczne"
   }
 ]

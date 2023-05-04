@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "Paczkomat",
+    "Description": "Odbiór w pobliskim paczkomacie",
+    "DeliveryTime": "1-2 Dni",
+    "Price": 20
+  },
+  {
+    "Id": 2,
+    "ShortName": "Kurier",
+    "Description": "Przesyłka dostarczona przez kuriera",
+    "DeliveryTime": "2-5 Dni",
+    "Price": 15
+  },
+  {
+    "Id": 3,
+    "ShortName": "Kiosk Ruch",
+    "Description": "Paczka dostarczona do kiosku Ruchu",
+    "DeliveryTime": "5-10 Dni",
+    "Price": 10
+  },
+  {
+    "Id": 4,
+    "ShortName": "Odbiór własny",
+    "Description": "Odbiór własny pod adresem Kwiatowa 5",
+    "DeliveryTime": "Brak",
+    "Price": 0
+  }
+]
