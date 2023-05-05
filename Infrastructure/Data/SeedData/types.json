@@ -1,18 +1,18 @@
 [
   {
     "Id": 1,
-    "Name": "Kartki"
+    "Name": "Kartka"
   },
   {
     "Id": 2,
-    "Name": "Zaproszenia"
+    "Name": "Zaproszenie"
   },
   {
     "Id": 3,
-    "Name": "Skrzynki"
+    "Name": "Skrzynka"
   },
   {
     "Id": 4,
-    "Name": "Koperty"
+    "Name": "Koperta"
   }
 ]

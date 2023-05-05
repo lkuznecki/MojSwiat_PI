@@ -2,11 +2,10 @@
     <table class="table">
         <thead class="text-uppercase" [class.bg-light]="isBasket">
             <tr>
-                <th><div class="py-2">Product</div></th>
-                <th><div class="py-2">Price</div></th>
-                <th [class.text-center]="!isBasket"><div class="py-2">Quantity</div></th>
-                <th><div class="py-2">Total</div></th>
-                <th *ngIf="isBasket"><div class="py-2">Remove</div></th>
+                <th><div class="py-2">Produkt</div></th>
+                <th><div class="py-2">Cena</div></th>
+                <th [class.text-center]="!isBasket"><div class="py-2" style="font-size: 1.20em;">Ilość</div></th>
+                <th *ngIf="isBasket"><div class="py-2">Usuń</div></th>
             </tr>
         </thead>
         <tbody>
@@ -25,7 +24,7 @@
                                 </a>
                             </h5>
                             <span class="text-muted fst-italic">
-                                Type: {{item.type}}
+                                Kategoria: {{item.type}}
                             </span>
                         </div>
                     </div>

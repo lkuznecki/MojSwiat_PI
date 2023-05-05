@@ -1,6 +1,6 @@
 <div class="container mt-5">
     <div *ngIf="(basketService.basketSource$ | async) === null">
-        <p>There are no items in your basket</p>
+        <p>Brak przedmiotów w Twoim koszyku</p>
     </div>
 
     <ng-container *ngIf="(basketService.basketSource$ | async) as basket">
@@ -17,7 +17,7 @@
                     <app-order-totals></app-order-totals>
                     <div class="d-grid">
                         <a routerLink="/checkout" class="btn btn-outline-primary py-2">
-                            Proceed to checkout
+                            Przejdź do rozliczenia
                         </a>
                     </div>
                 </div>

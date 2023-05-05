@@ -1,146 +1,146 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "Name": "Kartka Komunia Szara",
+    "Description": "Ozdobna kartka kielich na tle serca w tonie błękitu",
+    "Price": 25,
+    "PictureUrl": "images/products/kartka-komunia-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Kartka Komunia Złota",
+    "Description": "Ozdobna kartka komunijna dla dziewczynki",
+    "Price": 35,
+    "PictureUrl": "images/products/kartka-komunia-2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Kartka Komunia Chłopięca",
+    "Description": "Kartka komunijna dla chłopca",
+    "Price": 30,
+    "PictureUrl": "images/products/kartka-komunia-3.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Kartka Komunia Biel Kwiat",
+    "Description": "Kartka komunija w tonacji bieli ozdobiona kwiatami",
+    "Price": 25,
+    "PictureUrl": "images/products/kartka-komunia-4.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Kartka komunia Otwierana",
+    "Description": "Kartka komunijna z ozdobnym wnętrzem.",
+    "Price": 20,
+    "PictureUrl": "images/products/kartka-komunia-5.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Kartka Ślub Serce",
+    "Description": "Kartka pamiątkowa mąż i żona otoczona kwiatami",
+    "Price": 20,
+    "PictureUrl": "images/products/kartka-slubna-1.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "Name": "Kartka Ślub Para Kwiaty",
+    "Description": "Kartka przedstawiająca parę młodą na tle kwiatów",
+    "Price": 30,
+    "PictureUrl": "images/products/kartka-slubna-2.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Core Board Speed Rush 3",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
+    "Name": "Kartka Ślub Para",
+    "Description": "Kartka pary całującej się otoczona kwiatami",
+    "Price": 18,
+    "PictureUrl": "images/products/kartka-slubna-3.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 2
+    "ProductBrandId": 1
   },
   {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
+    "Name": "Kartka Ślub Para Fiolet",
+    "Description": "Kartka ślubna przestawiająca parę młodą parę na tle serca z białym kwiatem w odcieniu fioletu",
+    "Price": 25,
+    "PictureUrl": "images/products/kartka-slubna-4.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 2
+    "ProductBrandId": 1
   },
   {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "Name": "Kartka Ślub Para Odwrócona",
+    "Description": "Kartka ślubna przedstawiająca parę odwróconą otoczoną kwiatami w barwie wiosennej",
+    "Price": 18,
+    "PictureUrl": "images/products/kartka-slubna-5.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 4
+    "ProductBrandId": 1
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
-    "ProductTypeId": 1,
+    "Name": "Koperta Okazyjna Niebieska",
+    "Description": "Koperta ozdobna niebieska okazyjna",
+    "Price": 15,
+    "PictureUrl": "images/products/koperta-1.jpg",
+    "ProductTypeId": 4,
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Name": "Zaproszenie Ślub Para Beż",
+    "Description": "Zaproszenie na ślub - para młoda na tle w kształcie serca otoczona kwiatami",
     "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
+    "PictureUrl": "images/products/zaproszenie-5.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
   },
   {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Name": "Skrzynka Ślub KM",
+    "Description": "Skrzynka na pamiątke po ślubie",
     "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 6
-  },
-  {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
+    "PictureUrl": "images/products/skrzynka-2.jpg",
     "ProductTypeId": 3,
     "ProductBrandId": 1
   },
   {
-    "Name": "Angular Blue Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
-    "ProductTypeId": 3,
+    "Name": "Zaproszenie Ślub Róż",
+    "Description": "Zaproszenie na ślub Para otoczona kwiatami w barwie różowej",
+    "Price": 25,
+    "PictureUrl": "images/products/zaproszenie-1.jpg",
+    "ProductTypeId": 2,
     "ProductBrandId": 1
+  },
+  {
+    "Name": "Zaproszenie Komunia Uniwersalne",
+    "Description": "Zaproszenie na komunię chłopca lub dziewczynki",
+    "Price": 30.99,
+    "PictureUrl": "images/products/zaproszenie-2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Zaproszenie Komunia Chłopięce",
+    "Description": "Zaproszenie na komunię chłopca",
+    "Price": 29.99,
+    "PictureUrl": "images/products/zaproszenie-3.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Zaproszenie Komunia Sesja",
+    "Description": "Zaproszenie na sesje zdjęciową pokomunijną",
+    "Price": 27,
+    "PictureUrl": "images/products/zaproszenie-4.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Zaproszenie Chrzest Chłopiec",
+    "Description": "Zaproszenie na chrzest Chłopca",
+    "Price": 29,
+    "PictureUrl": "images/products/zaproszenie-chrzest-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
   }
 ]
