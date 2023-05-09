@@ -8,7 +8,7 @@
     >
     <div *ngIf="control.status === 'PENDING'" class="fa fa-spinner fa-spin loader"></div>
     <label for="floatingInput">{{label}}</label>
-    <div *ngIf="control.errors?.['required']" class="invalid-feedback">Wprowadź swój {{label}}</div>
+    <div *ngIf="control.errors?.['required']" class="invalid-feedback">Wprowadź swoje {{label}}</div>
     <div *ngIf="control.errors?.['email']" class="invalid-feedback">Niepoprawny adres e-mail</div>
     <div *ngIf="control.errors?.['pattern']" class="invalid-feedback">Hasło zbyt proste</div>
     <div *ngIf="control.errors?.['emailExists']" class="invalid-feedback">E-mail jest już w użytku</div>

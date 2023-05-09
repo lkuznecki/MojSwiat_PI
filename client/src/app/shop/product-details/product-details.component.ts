@@ -68,7 +68,7 @@ export class ProductDetailsComponent implements OnInit {
   }
 
   get buttonText() {
-    return this.quantityInBasket === 0 ? 'Dodaj do koszyka' : 'Update basket';
+    return this.quantityInBasket === 0 ? 'Dodaj do koszyka' : 'Aktualizuj Koszyk';
   }
 
 }
